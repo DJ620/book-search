@@ -29,5 +29,3 @@ mongoose.connect(
 app.listen(PORT, () =>
   console.log(`🌎  ==> API Server now listening on PORT ${PORT}!`)
 );
-
-//"mongodb://user1:password1@ds125871.mlab.com:25871/heroku_0xn0jnk7"
